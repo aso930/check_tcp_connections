@@ -1,5 +1,4 @@
-﻿#Maintained by alexandru.asofroniei@mindcti.com
-#
+
 
 
 #Modify as you wish
